@@ -7,5 +7,4 @@ import kotlinx.parcelize.Parcelize
 data class Supermakan (
     var nameSupermakan: String? = null,
     var imgSupermakan: Int=0
-
 ) : Parcelable
