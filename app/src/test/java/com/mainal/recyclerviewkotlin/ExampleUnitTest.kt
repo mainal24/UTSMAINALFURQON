@@ -1,4 +1,4 @@
-package com.tiara.recyclerviewkotlin
+package com.mainal.recyclerviewkotlin
 
 import org.junit.Test
 

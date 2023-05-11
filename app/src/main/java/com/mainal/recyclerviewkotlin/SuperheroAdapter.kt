@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.mainal.recyclerviewkotlin.Superhero
 
 class SuperheroAdapter (private val context: Context, private val superhero: List<Superhero>, val listener: (Superhero) -> Unit)
     : RecyclerView.Adapter<SuperheroAdapter.SuperheroViewHolder>(){

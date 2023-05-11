@@ -1,4 +1,4 @@
-package com.tiara.recyclerviewkotlin
+package com.mainal.recyclerviewkotlin
 
 import android.app.Activity
 import android.view.LayoutInflater
@@ -7,8 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.tiara.recyclerviewkotlin.SuperAdapter
-import org.w3c.dom.Text
+import com.tiara.recyclerviewkotlin.R
 
 class SuperAdapter (var data : ArrayList<Supermakan>, var context: Activity?) : RecyclerView.Adapter<SuperAdapter.MyViewHolder>(){
 

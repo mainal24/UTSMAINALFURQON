@@ -1,12 +1,12 @@
-package com.tiara.recyclerviewkotlin
+package com.mainal.recyclerviewkotlin
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.tiara.recyclerviewkotlin.databinding.ActivityMainBinding
+import com.tiara.recyclerviewkotlin.R
+import com.tiara.recyclerviewkotlin.SuperheroAdapter
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,10 +1,11 @@
-package com.tiara.recyclerviewkotlin
+package com.mainal.recyclerviewkotlin
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.tiara.recyclerviewkotlin.R
 
 
 class Fragment_list : Fragment() {

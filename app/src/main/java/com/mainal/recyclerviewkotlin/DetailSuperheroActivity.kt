@@ -1,10 +1,11 @@
-package com.tiara.recyclerviewkotlin
+package com.mainal.recyclerviewkotlin
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
+import com.tiara.recyclerviewkotlin.R
 
 private val MainActivity.Companion.INTENT_PARCELABLE: String?
     get() {
